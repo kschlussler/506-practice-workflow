@@ -5,7 +5,7 @@ This project includes variables of various types (number, string, list, and dict
 
 ### Variables
 - **number_var**: An integer with a value of `42`.
-- **string_var**: A string with a value of `"Hello, Friends!"`.
+- **string_var**: A string with a value of `"Hey, Professor!"`.
 - **list_var**: A list containing the numbers `[1, 2, 3, 4, 5]`.
 - **dict_var**: A dictionary with a name, age, attributes (including a list and nested dictionary), and a boolean flag.
 
